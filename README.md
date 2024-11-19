@@ -11,3 +11,7 @@ public class
 etc
 
 todo lo antemrior es fundamental llamamo metodos al main principal donde converge todo.
+
+## autor
+-192327 JUAN JOSE ZAMBRANO 
+-192316 NICOLL SOFIA AREVALO
